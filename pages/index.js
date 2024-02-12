@@ -8,11 +8,4 @@ function Home() {
   );
 }
 
-function Test() {
-  console.log("teste");
-}
-
-function Teste2() {
-  console.log("teste2");
-}
 export default Home;
